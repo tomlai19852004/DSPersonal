@@ -1,0 +1,2 @@
+https://medium.com/@karthikkeyan/ios-app-architecture-3f1d1400862f?source=false---------8
+In my experience, I understood one thing that, discussing with people would definitely help improve your approach. Each project by project and discussion by discussion, your architecting approach will progressively improve.
